@@ -1,4 +1,4 @@
-# Python-ethicalhacking-Tool---Beginner-Edition.
+# Python-Ethicalhacking-Tool---Beginner-Edition.
 
 This repository is dedicated to beginner-level ethical hacking tools that can be created using Python. The purpose of these tools is to provide an understanding of the working principles behind standard tools commonly used in ethical hacking. The tools included here are the result of the tutorial (https://drive.google.com/drive/folders/1luyDKRigRdGZ_r9rtrpvAAmSri3wg67m) and personal exploration to gain a deeper understanding of their functionality.
 
