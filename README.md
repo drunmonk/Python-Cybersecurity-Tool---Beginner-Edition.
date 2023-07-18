@@ -10,7 +10,7 @@ This repository is dedicated to beginner-level ethical hacking tools that can be
 
 - Tool 3: arp_spoofer
 
-- Tool 4: packet_sniffer
+- Tool 4: HTTP-Credential-Sniffer-Tool
 
 ## Purpose
 
